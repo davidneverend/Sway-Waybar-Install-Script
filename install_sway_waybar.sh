@@ -11,7 +11,9 @@ sudo sed -i 's/#Color/Color/' /etc/pacman.conf
 sudo sed -i 's/#ParallelDownloads/ParallelDownloads/' /etc/pacman.conf
 sudo systemctl start reflector.service
 cat /etc/pacman.d/mirrorlist
-sleep 2
+sleep 2oojn^ù45960.
+
+k,^p)m ,i;!
 
 clear
 echo "Refreshing keyrings..."
